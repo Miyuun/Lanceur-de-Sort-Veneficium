@@ -1,6 +1,6 @@
 ## Bienvenue sur la page de téléchargement du Lanceur de Sort Veneficium
 
-Voici ce que vous découvrez alors dans ce logiciel :
+Voici ce que vous découvrirez dans ce logiciel :
 
 ![Screen2](https://i.servimg.com/u/f59/19/68/96/08/screen12.png)
 
