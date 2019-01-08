@@ -1,4 +1,4 @@
-## Bienvenue sur la page de téléchargement du Lanceur de Sort Veneficium
+## Lanceur de Sort Veneficium
 
 Voici ce que vous découvrirez dans ce logiciel :
 
