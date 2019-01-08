@@ -8,7 +8,8 @@
 
 #### Versions :
 
-- Version 1.12 : [Télécharger (zip)](https://github.com/Miyuun/VeneficiumLanceurDeSort/raw/master/Versions/VeneficiumLanceurDeSort%201.12.zip)
+- Version 1.13 : [Télécharger Veneficium - Lanceur de Sort 1.13 (zip)](https://github.com/Miyuun/VeneficiumLanceurDeSort/raw/master/Versions/VeneficiumLanceurDeSort%201.13.zip)
+- Version 1.12 : [Télécharger Veneficium - Lanceur de Sort 1.12 (zip)](https://github.com/Miyuun/VeneficiumLanceurDeSort/raw/master/Versions/VeneficiumLanceurDeSort%201.12.zip)
 
 ### Mini-tutoriel
 
