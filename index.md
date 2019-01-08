@@ -1,4 +1,28 @@
-## Welcome to GitHub Pages
+## Bienvenue sur la page de téléchargement du Lanceur de Sort Veneficium
+
+Voici ce que vous découvrez alors dans ce logiciel :
+
+![Screen12](https://i.servimg.com/u/f59/19/68/96/08/screen12.png)
+
+En entrant dans les cases le pseudo EXACT des sorciers engagés dans le duel et en cliquant sur " Charger ", le logiciel ira directement récupérer les informations sur Veneficium.
+
+Ici, nous utiliserons Dumbledore et Grindelwald comme exemple, qui apparaissent donc avec toutes leurs statistiques.
+
+
+
+Vous pouvez choisir d'attaquer directement la personne adverse, ou alors d'attaquer son Protego si elle en a utilisé un :
+
+
+
+En cas de Protego brisé, l'Efficacité du sortilège après l'avoir franchi sera affichée en bas :
+
+
+
+Pour les doubles actions, rien de plus simple ! Le logiciel dispose d'une fonction dédiée aux bonus et malus. Il faudra donc entrer 50% dans les cases prévues à cet effet : 
+
+
+
+Vous pouvez bien sûr utiliser les cases juste au-dessus pour entrer des données brutes, par exemple +10 / +10.
 
 You can use the [editor on GitHub](https://github.com/Miyuun/Lanceur-de-Sort-Veneficium/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
