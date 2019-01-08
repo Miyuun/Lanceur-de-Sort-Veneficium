@@ -9,9 +9,13 @@
 #### Versions :
 
 - Version 1.14 : [Télécharger Veneficium - Lanceur de Sort 1.14 (zip)](https://github.com/Miyuun/VeneficiumLanceurDeSort/raw/master/Versions/VeneficiumLanceurDeSort%201.14.zip)
+
       => Ajout du renvoi de sort sur le Protego à +70
+      
 - Version 1.13 : [Télécharger Veneficium - Lanceur de Sort 1.13 (zip)](https://github.com/Miyuun/VeneficiumLanceurDeSort/raw/master/Versions/VeneficiumLanceurDeSort%201.13.zip)
+
       => Changement des Combobox vers où pointaient le Protego 1
+      
 - Version 1.12 : [Télécharger Veneficium - Lanceur de Sort 1.12 (zip)](https://github.com/Miyuun/VeneficiumLanceurDeSort/raw/master/Versions/VeneficiumLanceurDeSort%201.12.zip)
 
 ### Mini-tutoriel
