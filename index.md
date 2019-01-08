@@ -1,14 +1,16 @@
 ## Lanceur de Sort Veneficium
 
-# Téléchargement
+### Téléchargement
 
-Github Officiel : 
+#### Github Officiel : 
 
-Versions :
+[Lien du Github](https://github.com/Miyuun/VeneficiumLanceurDeSort)
+
+#### Versions :
 
 - Version 1.12 : [Télécharger (zip)](https://github.com/Miyuun/VeneficiumLanceurDeSort/raw/master/Versions/VeneficiumLanceurDeSort%201.12.zip)
 
-# Mini-tutoriel
+### Mini-tutoriel
 
 Voici ce que vous découvrirez dans ce logiciel :
 
