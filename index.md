@@ -8,6 +8,10 @@
 
 #### Versions :
 
+- Version 1.15 : [Télécharger Veneficium - Lanceur de Sort 1.15 (zip)](https://github.com/Miyuun/VeneficiumLanceurDeSort/raw/master/Versions/VeneficiumLanceurDeSort%201.15.zip)
+```
+• Enlever le renvoi des sorts sur un critique de Protego
+```
 - Version 1.14 : [Télécharger Veneficium - Lanceur de Sort 1.14 (zip)](https://github.com/Miyuun/VeneficiumLanceurDeSort/raw/master/Versions/VeneficiumLanceurDeSort%201.14.zip)
 ```
 • Ajout du renvoi de sort sur le Protego à +70
