@@ -8,6 +8,10 @@
 
 #### Versions :
 
+- Version 1.16 : [Télécharger Veneficium - Lanceur de Sort 1.16 (zip)](https://github.com/Miyuun/VeneficiumLanceurDeSort/raw/master/Versions/VeneficiumLanceurDeSort%201.16.zip)
+```
+• Bug Malus Protego + Refonte du rand
+```
 - Version 1.15 : [Télécharger Veneficium - Lanceur de Sort 1.15 (zip)](https://github.com/Miyuun/VeneficiumLanceurDeSort/raw/master/Versions/VeneficiumLanceurDeSort%201.15.zip)
 ```
 • Enlever le renvoi des sorts sur un critique de Protego
