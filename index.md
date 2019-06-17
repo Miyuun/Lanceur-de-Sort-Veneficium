@@ -6,8 +6,12 @@
 
 [Lien du Github](https://github.com/Miyuun/VeneficiumLanceurDeSort)
 
-#### Versions :
+#### Versions 
 
+- Version 1.16 : [Télécharger Veneficium - Lanceur de Sort 1.17 (zip)](https://github.com/Miyuun/VeneficiumLanceurDeSort/raw/master/Versions/VeneficiumLanceurDeSort%201.17.zip)
+```
+• Refonte pour nouveau thème forum
+```
 - Version 1.16 : [Télécharger Veneficium - Lanceur de Sort 1.16 (zip)](https://github.com/Miyuun/VeneficiumLanceurDeSort/raw/master/Versions/VeneficiumLanceurDeSort%201.16.zip)
 ```
 • Bug Malus Protego + Refonte du rand
