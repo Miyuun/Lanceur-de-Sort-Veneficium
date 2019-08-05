@@ -8,7 +8,11 @@
 
 #### Versions 
 
-- Version 1.16 : [Télécharger Veneficium - Lanceur de Sort 1.17 (zip)](https://github.com/Miyuun/VeneficiumLanceurDeSort/raw/master/Versions/VeneficiumLanceurDeSort%201.17.zip)
+- Version 1.18 : [Télécharger Veneficium - Lanceur de Sort 1.18 (zip)](https://github.com/Miyuun/VeneficiumLanceurDeSort/raw/master/Versions/VeneficiumLanceurDeSort%201.18.zip)
+```
+• Refonte pour nouveau thème forum
+```
+- Version 1.17 : [Télécharger Veneficium - Lanceur de Sort 1.17 (zip)](https://github.com/Miyuun/VeneficiumLanceurDeSort/raw/master/Versions/VeneficiumLanceurDeSort%201.17.zip)
 ```
 • Refonte pour nouveau thème forum
 ```
