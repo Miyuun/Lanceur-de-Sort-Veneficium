@@ -8,9 +8,13 @@
 
 #### Versions 
 
+- Version 1.19 : [Télécharger Veneficium - Lanceur de Sort 1.19 (zip)](https://github.com/Miyuun/VeneficiumLanceurDeSort/raw/master/Versions/VeneficiumLanceurDeSort%201.19.zip)
+```
+• AJout des réussites inférieures
+```
 - Version 1.18 : [Télécharger Veneficium - Lanceur de Sort 1.18 (zip)](https://github.com/Miyuun/VeneficiumLanceurDeSort/raw/master/Versions/VeneficiumLanceurDeSort%201.18.zip)
 ```
-• Refonte pour nouveau thème forum
+• Bug crash de l'application si fiche personnage non trouvée
 ```
 - Version 1.17 : [Télécharger Veneficium - Lanceur de Sort 1.17 (zip)](https://github.com/Miyuun/VeneficiumLanceurDeSort/raw/master/Versions/VeneficiumLanceurDeSort%201.17.zip)
 ```
