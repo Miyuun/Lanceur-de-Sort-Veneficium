@@ -8,9 +8,13 @@
 
 #### Versions 
 
+- Version 1.20 : [Télécharger Veneficium - Lanceur de Sort 1.20 (zip)](https://github.com/Miyuun/VeneficiumLanceurDeSort/raw/master/Versions/VeneficiumLanceurDeSort%201.20.zip)
+```
+• Correction du protego qui ne se brisait pas lors d'une réussite inférieure
+```
 - Version 1.19 : [Télécharger Veneficium - Lanceur de Sort 1.19 (zip)](https://github.com/Miyuun/VeneficiumLanceurDeSort/raw/master/Versions/VeneficiumLanceurDeSort%201.19.zip)
 ```
-• AJout des réussites inférieures
+• Ajout des réussites inférieures
 ```
 - Version 1.18 : [Télécharger Veneficium - Lanceur de Sort 1.18 (zip)](https://github.com/Miyuun/VeneficiumLanceurDeSort/raw/master/Versions/VeneficiumLanceurDeSort%201.18.zip)
 ```
