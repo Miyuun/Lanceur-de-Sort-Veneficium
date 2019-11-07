@@ -8,6 +8,10 @@
 
 #### Versions 
 
+- Version 1.21 : [Télécharger Veneficium - Lanceur de Sort 1.21 (zip)](https://github.com/Miyuun/VeneficiumLanceurDeSort/raw/master/Versions/VeneficiumLanceurDeSort%201.21.zip)
+```
+• Fix pour la mise à jour des fiches de personnage du forum
+```
 - Version 1.20.1 : [Télécharger Veneficium - Lanceur de Sort 1.20.1 (zip)](https://github.com/Miyuun/VeneficiumLanceurDeSort/raw/master/Versions/VenefBETA%201.20.1.zip)
 ```
 • Ajout d'une interface
